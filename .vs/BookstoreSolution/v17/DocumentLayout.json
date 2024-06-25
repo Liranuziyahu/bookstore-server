@@ -1,0 +1,70 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Liran Uziyahu\\Desktop\\BookstoreSolution\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9D8FF5A2-E844-4180-81E4-C17F4D745AD5}|BookstoreAPI\\BookstoreAPI.csproj|c:\\users\\liran uziyahu\\desktop\\bookstoresolution\\bookstoreapi\\controllers\\bookscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D8FF5A2-E844-4180-81E4-C17F4D745AD5}|BookstoreAPI\\BookstoreAPI.csproj|solutionrelative:bookstoreapi\\controllers\\bookscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D8FF5A2-E844-4180-81E4-C17F4D745AD5}|BookstoreAPI\\BookstoreAPI.csproj|c:\\users\\liran uziyahu\\desktop\\bookstoresolution\\bookstoreapi\\data.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{9D8FF5A2-E844-4180-81E4-C17F4D745AD5}|BookstoreAPI\\BookstoreAPI.csproj|solutionrelative:bookstoreapi\\data.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D8FF5A2-E844-4180-81E4-C17F4D745AD5}|BookstoreAPI\\BookstoreAPI.csproj|c:\\users\\liran uziyahu\\desktop\\bookstoresolution\\bookstoreapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D8FF5A2-E844-4180-81E4-C17F4D745AD5}|BookstoreAPI\\BookstoreAPI.csproj|solutionrelative:bookstoreapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "data.xml",
+              "DocumentMoniker": "C:\\Users\\Liran Uziyahu\\Desktop\\BookstoreSolution\\BookstoreAPI\\data.xml",
+              "RelativeDocumentMoniker": "BookstoreAPI\\data.xml",
+              "ToolTip": "C:\\Users\\Liran Uziyahu\\Desktop\\BookstoreSolution\\BookstoreAPI\\data.xml",
+              "RelativeToolTip": "BookstoreAPI\\data.xml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003576|",
+              "WhenOpened": "2024-06-24T20:38:31.654Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BooksController.cs",
+              "DocumentMoniker": "C:\\Users\\Liran Uziyahu\\Desktop\\BookstoreSolution\\BookstoreAPI\\Controllers\\BooksController.cs",
+              "RelativeDocumentMoniker": "BookstoreAPI\\Controllers\\BooksController.cs",
+              "ToolTip": "C:\\Users\\Liran Uziyahu\\Desktop\\BookstoreSolution\\BookstoreAPI\\Controllers\\BooksController.cs",
+              "RelativeToolTip": "BookstoreAPI\\Controllers\\BooksController.cs",
+              "ViewState": "AQIAADgAAAAAAAAAAAAIwFMAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-24T18:19:06.153Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Liran Uziyahu\\Desktop\\BookstoreSolution\\BookstoreAPI\\Program.cs",
+              "RelativeDocumentMoniker": "BookstoreAPI\\Program.cs",
+              "ToolTip": "C:\\Users\\Liran Uziyahu\\Desktop\\BookstoreSolution\\BookstoreAPI\\Program.cs",
+              "RelativeToolTip": "BookstoreAPI\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-24T18:18:55.279Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

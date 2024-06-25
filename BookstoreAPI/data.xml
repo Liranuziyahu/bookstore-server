@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<bookstore>
+  <book category="children">
+    <isbn>9051234567897</isbn>
+    <title>Harry Potter</title>
+    <author>J K. Rowling</author>
+    <year>2005</year>
+    <price>29.99</price>
+  </book>
+  <book category="web">
+    <isbn>9031234567897</isbn>
+    <title>XQuery Kick Start</title>
+    <author>James McGovern</author>
+    <author>Per Bothner</author>
+    <author>Kurt Cagle</author>
+    <author>James Linn</author>
+    <author>Vaidyanathan Nagarajan</author>
+    <year>2003</year>
+    <price>49.99</price>
+  </book>
+  <book category="web">
+    <isbn>9043127323207</isbn>
+    <title>Learning XML</title>
+    <author>Erik T. Ray</author>
+    <year>2003</year>
+    <price>39.95</price>
+  </book>
+  <book category="Life">
+    <isbn>31312321</isbn>
+    <title>1001 ways to Live</title>
+    <author>Anton Rabin</author>
+    <year>1992</year>
+    <price>129.9</price>
+  </book>
+  <book category="EXTREME">
+    <isbn>333221</isbn>
+    <title>Dream Drive</title>
+    <author>Justin David</author>
+    <author>Ron A</author>
+    <year>2021</year>
+    <price>199.9</price>
+  </book>
+</bookstore>
